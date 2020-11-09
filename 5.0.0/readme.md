@@ -6,7 +6,7 @@
 
  اندروید زیر استفاده کنید
 
-[دانلود اس دی ک اندروید](https://github.com/cheshmak/B4A-EXAMPLES/blob/master/5.0.0/libs/cheshmak_lib_5.0.0_ANDROID_X.zip)
+[دانلود اس دی ک اندروید](https://www.cheshmak.me/docs/wp-content/uploads/B4A_ANDROID_X_SDK.zip)
 
 ---
 
